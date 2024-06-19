@@ -1,0 +1,125 @@
+PS D:\Mini Project React\Random Color Generator> npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help init` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (random-color-generator)
+version: (1.0.0)
+description:
+entry point: (index.js)
+test command:
+git repository:
+keywords:
+author:
+license: (ISC)
+About to write to D:\Mini Project React\Random Color Generator\package.json:
+
+{
+  "name": "random-color-generator",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
+
+Is this OK? (yes)
+PS D:\Mini Project React\Random Color Generator>
+PS D:\Mini Project React\Random Color Generator> npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help init` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (random-color-generator)
+version: (1.0.0)
+description: Random color generator with React JS
+entry point: (index.js)
+test command: test
+git repository:
+keywords: React JS, Project
+author: Md Ahmod Akram Choudhury
+license: (ISC)
+About to write to D:\Mini Project React\Random Color Generator\package.json:
+
+{
+  "name": "random-color-generator",
+  "version": "1.0.0",
+  "description": "Random color generator with React JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "React",
+    "JS",
+    "Project"
+  ],
+  "author": "Md Ahmod Akram Choudhury",
+  "license": "ISC"
+}
+
+Is this OK? (yes)
+PS D:\Mini Project React\Random Color Generator> npm install -D parcel
+npm WARN deprecated stable@0.1.8: Modern JS already guarantees Array#sort() is a stable sort, so this library is deprecated. See the compatibility table on MDN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort#browser_compatibility
+
+added 189 packages, and audited 190 packages in 2m
+86 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS D:\Mini Project React\Random Color Generator> npm install react
+
+added 2 packages, and audited 192 packages in 10s
+86 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS D:\Mini Project React\Random Color Generator> npm i react-dom
+
+added 2 packages, and audited 194 packages in 10s
+86 packages are looking for funding
+  run `npm fund` for details
+PS D:\Mini Project React\Random Color Generator> npm install -D tailwindcss postcss
+
+added 97 packages, and audited 291 packages in 33s
+
+113 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS D:\Mini Project React\Random Color Generator> npx tailwindcss init
+
+Created Tailwind CSS config file: tailwind.config.js
+PS D:\Mini Project React\Random Color Generator>
+PS D:\Mini Project React\Random Color Generator> npm start
+
+> random-color-generator@1.0.0 start
+> parcel index.html
+
+Server running at http://localhost:1234
+⠦ Building index.css...
+⠧ Building index.css...
+warn - No utility classes were detected in your source files. If this is unexpected, double-check the `content` option in your Tailwind CSS conServer running at http://localhost:1234
+✨ Built in 1.78s
+
+
+
+
+
+
+
